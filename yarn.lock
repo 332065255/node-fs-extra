@@ -1406,6 +1406,10 @@ sketch-graceful-fs@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/sketch-graceful-fs/-/sketch-graceful-fs-1.0.1.tgz#391d7f014690f70912251f7ba665ec53e2f3a98c"
 
+sketch-graceful-fs@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/sketch-graceful-fs/-/sketch-graceful-fs-1.0.2.tgz#af3cdd049df91563e5b84f14f8c61cf6796b6788"
+
 sketch-jsonfile@^5.0.3:
   version "5.0.3"
   resolved "https://registry.npmjs.org/sketch-jsonfile/-/sketch-jsonfile-5.0.3.tgz#3faab4d472a8edad5310104180a0156c281b28ff"
