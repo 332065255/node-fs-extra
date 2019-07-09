@@ -1403,12 +1403,12 @@ signal-exit@^3.0.2:
   resolved "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
 sketch-graceful-fs@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/sketch-graceful-fs/-/sketch-graceful-fs-1.0.0.tgz#16c8954efe8588f20c0da05fcbe01d0ddad2a95a"
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/sketch-graceful-fs/-/sketch-graceful-fs-1.0.1.tgz#391d7f014690f70912251f7ba665ec53e2f3a98c"
 
 sketch-jsonfile@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npmjs.org/sketch-jsonfile/-/sketch-jsonfile-5.0.0.tgz#e9b64b0afe7a6c411f20afc2be2ebc1d0cc62e48"
+  version "5.0.1"
+  resolved "https://registry.npmjs.org/sketch-jsonfile/-/sketch-jsonfile-5.0.1.tgz#bce8b272f1f58d6862ac04e45138bf1d6f0b432a"
   dependencies:
     universalify "^0.1.2"
   optionalDependencies:
