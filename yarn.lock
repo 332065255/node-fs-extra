@@ -669,7 +669,7 @@ globals@^11.7.0:
   version "11.12.0"
   resolved "https://registry.npmjs.org/globals/-/globals-11.12.0.tgz#ab8795338868a0babd8525758018c2a7eb95c42e"
 
-graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.1.9:
+graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.9:
   version "4.2.0"
   resolved "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.0.tgz#8d8fdc73977cb04104721cb53666c1ca64cd328b"
 
@@ -1402,17 +1402,16 @@ signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
-sketch-graceful-fs@^1.0.0:
+sketch-graceful-fs@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/sketch-graceful-fs/-/sketch-graceful-fs-1.0.1.tgz#391d7f014690f70912251f7ba665ec53e2f3a98c"
 
-sketch-jsonfile@^5.0.0:
-  version "5.0.1"
-  resolved "https://registry.npmjs.org/sketch-jsonfile/-/sketch-jsonfile-5.0.1.tgz#bce8b272f1f58d6862ac04e45138bf1d6f0b432a"
+sketch-jsonfile@^5.0.3:
+  version "5.0.3"
+  resolved "https://registry.npmjs.org/sketch-jsonfile/-/sketch-jsonfile-5.0.3.tgz#3faab4d472a8edad5310104180a0156c281b28ff"
   dependencies:
+    sketch-graceful-fs "^1.0.1"
     universalify "^0.1.2"
-  optionalDependencies:
-    graceful-fs "^4.1.6"
 
 slice-ansi@1.0.0:
   version "1.0.0"

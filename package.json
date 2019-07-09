@@ -36,8 +36,8 @@
   "author": "gao11 <332065255@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "sketch-graceful-fs": "^1.0.0",
-    "sketch-jsonfile": "^5.0.0",
+    "sketch-graceful-fs": "^1.0.1",
+    "sketch-jsonfile": "^5.0.3",
     "universalify": "^0.1.0"
   },
   "devDependencies": {
