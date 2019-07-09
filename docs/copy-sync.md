@@ -14,7 +14,7 @@ Copy a file or directory. The directory can have contents. Like `cp -r`.
 ## Example:
 
 ```js
-const fs = require('fs-extra')
+ = require('fs-extra')
 
 // copy file
 fs.copySync('/tmp/myfile', '/tmp/mynewfile')
