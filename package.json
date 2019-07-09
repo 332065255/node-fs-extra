@@ -1,14 +1,14 @@
 {
-  "name": "fs-extra",
-  "version": "8.1.0",
+  "name": "sketch-fs-extra",
+  "version": "1.0.0",
   "description": "fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as mkdir -p, cp -r, and rm -rf.",
   "engines": {
     "node": ">=6 <7 || >=8"
   },
-  "homepage": "https://github.com/jprichardson/node-fs-extra",
+  "homepage": "https://github.com/332065255/node-fs-extra",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jprichardson/node-fs-extra"
+    "url": "https://github.com/332065255/node-fs-extra"
   },
   "keywords": [
     "fs",
@@ -33,7 +33,7 @@
     "output",
     "move"
   ],
-  "author": "JP Richardson <jprichardson@gmail.com>",
+  "author": "gao11 <332065255@qq.com>",
   "license": "MIT",
   "dependencies": {
     "graceful-fs": "^4.2.0",
