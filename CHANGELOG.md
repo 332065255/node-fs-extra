@@ -846,7 +846,7 @@ from `~` to `^`. [#67]
 [#20]: https://github.com/jprichardson/node-fs-extra/issues/20      "fs.remove yields callback before directory is really deleted"
 [#19]: https://github.com/jprichardson/node-fs-extra/issues/19      "fs.copy err is empty array"
 [#18]: https://github.com/jprichardson/node-fs-extra/pull/18        "Exposed copyFile Function"
-[#17]: https://github.com/jprichardson/node-fs-extra/issues/17      "Use `require('graceful-fs')` if found instead of `require('fs')`"
+[#17]: https://github.com/jprichardson/node-fs-extra/issues/17      "Use `require('sketch-graceful-fs')` if found instead of `require('fs')`"
 [#16]: https://github.com/jprichardson/node-fs-extra/pull/16        "Update README.md"
 [#15]: https://github.com/jprichardson/node-fs-extra/issues/15      "Implement cp -r but sync aka copySync. [enhancement]"
 [#14]: https://github.com/jprichardson/node-fs-extra/issues/14      "fs.mkdirSync is broken in 0.3.1"
